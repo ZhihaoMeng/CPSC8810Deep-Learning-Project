@@ -1,1 +1,1 @@
-# After executation of test.py, the labeled imaged should be here.
+# After executation of test.py, the labeled images should be here.
